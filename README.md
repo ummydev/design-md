@@ -39,6 +39,7 @@ npx shadcn@latest add https://codexdesign.io/r/paper.json
 | [Tideline](https://codexdesign.io/design-systems/tideline) | CRM and Admin Dashboard | Cool paper, navy ink and one cobalt accent, for people who live in tables. Template: [CRM dashboard](https://codexdesign.io/templates/crm-dashboard). | [DESIGN.md](systems/tideline/DESIGN.md) |
 | [Kiln](https://codexdesign.io/design-systems/kiln) | Project Management Dashboard | Bone paper, charcoal ink and one kiln-orange accent, so a busy week reads at a glance. Template: [project management dashboard](https://codexdesign.io/templates/project-management-dashboard). | [DESIGN.md](systems/kiln/DESIGN.md) |
 | [Morrow](https://codexdesign.io/design-systems/morrow) | E-commerce Website | Oat paper, espresso ink and one sage accent, so the product photos do the talking. Template: [e-commerce website](https://codexdesign.io/templates/ecommerce-website). | [DESIGN.md](systems/morrow/DESIGN.md) |
+| [Fieldstone](https://codexdesign.io/design-systems/fieldstone) | Real Estate Website | Limestone white, deep pine ink and one brass accent, so the houses fill the frame. Template: [real estate website](https://codexdesign.io/templates/real-estate-website). | [DESIGN.md](systems/fieldstone/DESIGN.md) |
 
 ## Mobile app systems
 
