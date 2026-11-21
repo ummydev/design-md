@@ -37,6 +37,7 @@ npx shadcn@latest add https://codexdesign.io/r/paper.json
 | [Chalk](https://codexdesign.io/design-systems/chalk) | Friendly Education | Bright, rounded and encouraging, like a good classroom. | [DESIGN.md](systems/chalk/DESIGN.md) |
 | [Pop](https://codexdesign.io/design-systems/pop) | Neo-Brutalist | Thick black outlines, hard shadows and lemon yellow. Loud on purpose. | [DESIGN.md](systems/pop/DESIGN.md) |
 | [Tideline](https://codexdesign.io/design-systems/tideline) | CRM and Admin Dashboard | Cool paper, navy ink and one cobalt accent, for people who live in tables. Template: [CRM dashboard](https://codexdesign.io/templates/crm-dashboard). | [DESIGN.md](systems/tideline/DESIGN.md) |
+| [Kiln](https://codexdesign.io/design-systems/kiln) | Project Management Dashboard | Bone paper, charcoal ink and one kiln-orange accent, so a busy week reads at a glance. Template: [project management dashboard](https://codexdesign.io/templates/project-management-dashboard). | [DESIGN.md](systems/kiln/DESIGN.md) |
 
 ## Mobile app systems
 
