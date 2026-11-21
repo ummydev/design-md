@@ -36,6 +36,7 @@ npx shadcn@latest add https://codexdesign.io/r/paper.json
 | [Terra](https://codexdesign.io/design-systems/terra) | Earthy Eco | Moss, linen and clay for brands that work close to the land. | [DESIGN.md](systems/terra/DESIGN.md) |
 | [Chalk](https://codexdesign.io/design-systems/chalk) | Friendly Education | Bright, rounded and encouraging, like a good classroom. | [DESIGN.md](systems/chalk/DESIGN.md) |
 | [Pop](https://codexdesign.io/design-systems/pop) | Neo-Brutalist | Thick black outlines, hard shadows and lemon yellow. Loud on purpose. | [DESIGN.md](systems/pop/DESIGN.md) |
+| [Tideline](https://codexdesign.io/design-systems/tideline) | CRM and Admin Dashboard | Cool paper, navy ink and one cobalt accent, for people who live in tables. Template: [CRM dashboard](https://codexdesign.io/templates/crm-dashboard). | [DESIGN.md](systems/tideline/DESIGN.md) |
 
 ## Mobile app systems
 
