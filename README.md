@@ -55,6 +55,7 @@ App systems add the rules phone screens need: touch targets, a bottom tab bar, a
 | [Care](https://codexdesign.io/design-systems/care) | Healthcare App | One clear task per screen, for patients who just want to get it done. | [DESIGN.md](systems/care/DESIGN.md) |
 | [Vinyl](https://codexdesign.io/design-systems/vinyl) | Music and Podcast App | Cover art first, a hot pink play button and a dark room to listen in. | [DESIGN.md](systems/vinyl/DESIGN.md) |
 | [Hearth](https://codexdesign.io/design-systems/hearth) | Smart Home App | Warm amber light on a dark, quiet home screen. | [DESIGN.md](systems/hearth/DESIGN.md) |
+| [Fernwise](https://codexdesign.io/design-systems/fernwise) | Finance App and Dashboard | Sage paper, deep forest ink and money that feels calm. Templates: [finance app](https://codexdesign.io/templates/finance-app), [finance dashboard](https://codexdesign.io/templates/finance-dashboard). | [DESIGN.md](systems/fernwise/DESIGN.md) |
 
 ## What's in each folder
 
